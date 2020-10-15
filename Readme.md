@@ -6,6 +6,6 @@ This is the Python code used to control [LIFX](https://www.lifx.com/) lights wit
 
 You'll need to grab your LIFX Cloud token from their [website](https://cloud.lifx.com/settings). Make sure your lights are connected, then you can setup scenes, lights, and more.
 
-Check out the [LIFX Dev Tools and API](https://api.developer.lifx.com/) to grab all your details.
+Check out the [LIFX Dev Tools and API](https://api.developer.lifx.com/) to grab all your details. Once you have your scene and light keys, you can add them into the file. The .py file will open a command line. .pyw will be without the command line. However Python 3 should start this up without any worries.
 
 Thanks to [ImSammy](https://www.youtube.com/watch?v=UP3PQu4PlaY) who originally put together the video tutorial. Thanks Sammy for all your hard work.
