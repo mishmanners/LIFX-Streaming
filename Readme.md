@@ -20,11 +20,11 @@ If you head to [LIFX API](https://api.developer.lifx.com/docs/list-scenes) and s
 
 Check out the [LIFX Dev Tools and API](https://api.developer.lifx.com/) to grab all your details. Once you have your scene and light keys, you can add them into the file. The .py file will open a command line. .pyw will be without the command line. However Python 3 should start this up without any worries.
 
-### Elgato Stream Deck Insturctions
-
-![Elgato](https://github.com/MishManners/LIFX-Streaming/blob/master/Images/personalized_photo.jpg)
+### Elgato Stream Deck Instructions
 
 Now all you need to do is map the Python Code to your stream deck.
+
+![Elgato](https://github.com/MishManners/LIFX-Streaming/blob/master/Images/personalized_photo.jpg)
 
 1. Open Elgato Stream Deck (the software)
 2. Add a new "Open" button to your deck (you'll find this under "System")
